@@ -4,6 +4,12 @@
 </br>
 <p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=4">Download the latest developer version</a></strong> (the file FS25_gameplay_RoadMaster.zip).</p>
 
+## Changelog 1.1.0.1:
+- Github issues#5 fixed
+- lastDieselFuelUsage - fixed
+- RPM now increase gradually
+- DescVersion increased
+
 ## Changelog 1.1.0.0:
 - New variable: lastDieselFuelUsage, which shows the fuel consumption of diesel vehicles, not AdBlue consumption
 - Creation of global settings
