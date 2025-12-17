@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l10n>
+    <elements>
+        <e k="input_ROADMASTER_SET" v="RoadMaster"/>
+        <e k="input_ROADMASTER_TRIPRES" v="Réinitialiser le compteur de trajet"/>
+        <e k="RM_sectionHeaderHUD" v="Paramètres du HUD"/>
+        <e k="RM_sectionHeaderINFO" v="Informations supplémentaires sur le véhicule"/>
+        <e k="RM_setting_showOdometer" v="Compteur kilométrique"/>
+        <e k="RM_toolTip_showOdometer" v="Ici, vous pouvez activer ou désactiver l'affichage du compteur kilométrique."/>
+        <e k="RM_setting_showFuelUsage" v="Consommation de carburant"/>
+        <e k="RM_toolTip_showFuelUsage" v="Ici, vous pouvez activer ou désactiver l'affichage de la consommation de carburant."/>
+        <e k="RM_setting_showFuel" v="Quantité de carburant"/>
+        <e k="RM_toolTip_showFuel" v="Ici, vous pouvez activer ou désactiver l'affichage de la quantité de carburant."/>
+        <e k="RM_setting_displayMode" v="Mode compteur kilométrique"/>
+        <e k="RM_toolTip_displayMode" v="Choisissez d'afficher soit le compteur kilométrique, soit le compteur de trajet. Le compteur kilométrique indique le kilométrage total du véhicule, tandis que le compteur de trajet mesure la distance parcourue pendant le trajet ou la session en cours."/>
+        <e k="RM_setting_displayModeOption1" v="Compteur kilométrique"/>
+        <e k="RM_setting_displayModeOption2" v="Compteur de trajet"/>
+        <e k="RM_setting_displayOdo" v="Compteur kilométrique"/>
+        <e k="RM_toolTip_displayOdo" v="Affichage constant du compteur kilométrique sur le HUD."/>
+        <e k="RM_setting_displayOdoOption1" v="Ne pas afficher"/>
+        <e k="RM_setting_displayOdoOption2" v="Sur le HUD"/>
+        <e k="RM_setting_displayOdoOption3" v="Sous le HUD"/>
+        <e k="RM_setting_showTemp" v="Température du moteur"/>
+        <e k="RM_toolTip_showTemp" v="Ici, vous pouvez activer ou désactiver l'affichage de la température du moteur."/>
+        <e k="RM_setting_showRpm" v="RPM"/>
+        <e k="RM_toolTip_showRpm" v="Ici, vous pouvez activer ou désactiver l'affichage des RPM du moteur."/>
+        <e k="RM_setting_gameOpHours" v="Heures de fonctionnement"/>
+        <e k="RM_toolTip_gameOpHours" v="Choisissez d'afficher les heures de fonctionnement du véhicule en temps de jeu (Oui) ou en temps réel (Non)."/>
+        <e k="RM_setting_infoAverageSpeed" v="Vitesse moyenne"/>
+        <e k="RM_toolTip_infoAverageSpeed" v=""/>
+        <e k="RM_setting_infoFuel" v="Carburant"/>
+        <e k="RM_toolTip_infoFuel" v="Quantité de carburant."/>
+        <e k="RM_setting_infoExpOpTime" v="Temps de fonctionnement estimé"/>
+        <e k="RM_toolTip_infoExpOpTime" v="Temps de fonctionnement restant avec la quantité actuelle de carburant."/>
+        <e k="RM_setting_infoRange" v="Autonomie"/>
+        <e k="RM_toolTip_infoRange" v="Distance pouvant être parcourue avec la quantité actuelle de carburant."/>
+        <e k="RM_setting_hours" v=" heures"/>
+        <e k="RM_button_okglobal" v="Sauvegarde Globale"/>
+    </elements>
+</l10n>

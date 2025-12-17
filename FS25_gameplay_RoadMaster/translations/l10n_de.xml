@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l10n>
+    <elements>
+        <e k="input_ROADMASTER_SET" v="RoadMaster"/>
+        <e k="input_ROADMASTER_TRIPRES" v="Trip-Zähler zurücksetzen"/>
+        <e k="RM_sectionHeaderHUD" v="HUD-Einstellungen"/>
+        <e k="RM_sectionHeaderINFO" v="Zusätzliche Fahrzeuginformationen"/>
+        <e k="RM_setting_showOdometer" v="Kilometerzähler"/>
+        <e k="RM_toolTip_showOdometer" v="Hier kannst du die Anzeige des Kilometerzählers ein- oder ausschalten."/>
+        <e k="RM_setting_showFuelUsage" v="Kraftstoffverbrauch"/>
+        <e k="RM_toolTip_showFuelUsage" v="Hier kannst du die Anzeige des Kraftstoffverbrauchs ein- oder ausschalten."/>
+        <e k="RM_setting_showFuel" v="Kraftstoffmenge"/>
+        <e k="RM_toolTip_showFuel" v="Hier kannst du die Anzeige der Kraftstoffmenge ein- oder ausschalten."/>
+        <e k="RM_setting_displayMode" v="Kilometerzähler-Modus"/>
+        <e k="RM_toolTip_displayMode" v="Wähle, ob der Kilometerzähler oder der Trip-Zähler angezeigt werden soll. Der Kilometerzähler zeigt die Gesamtfahrleistung des Fahrzeugs an, während der Trip-Zähler die aktuelle Strecke misst."/>
+        <e k="RM_setting_displayModeOption1" v="Kilometerzähler"/>
+        <e k="RM_setting_displayModeOption2" v="Trip-Zähler"/>
+        <e k="RM_setting_displayOdo" v="Kilometerzähler"/>
+        <e k="RM_toolTip_displayOdo" v="Ständige Anzeige des Kilometerzähler auf dem HUD."/>
+        <e k="RM_setting_displayOdoOption1" v="Nicht anzeigen"/>
+        <e k="RM_setting_displayOdoOption2" v="Im HUD"/>
+        <e k="RM_setting_displayOdoOption3" v="Unter dem HUD"/>
+        <e k="RM_setting_showTemp" v="Motortemperatur"/>
+        <e k="RM_toolTip_showTemp" v="Hier kannst du die Anzeige der Motortemperatur ein- oder ausschalten."/>
+        <e k="RM_setting_showRpm" v="Drehzahl (RPM)"/>
+        <e k="RM_toolTip_showRpm" v="Hier kannst du die Anzeige der Motordrehzahl (RPM) ein- oder ausschalten."/>
+        <e k="RM_setting_gameOpHours" v="Betriebsstunden"/>
+        <e k="RM_toolTip_gameOpHours" v="Wähle, ob die Betriebsstunden des Fahrzeugs in Spielzeit (Ja) oder in Echtzeit (Nein) angezeigt werden sollen."/>
+        <e k="RM_setting_infoAverageSpeed" v="Durchschnittsgeschwindigkeit"/>
+        <e k="RM_toolTip_infoAverageSpeed" v=""/>
+        <e k="RM_setting_infoFuel" v="Kraftstoff"/>
+        <e k="RM_toolTip_infoFuel" v="Kraftstoffmenge."/>
+        <e k="RM_setting_infoExpOpTime" v="Erwartete Betriebszeit"/>
+        <e k="RM_toolTip_infoExpOpTime" v="Verbleibende Betriebszeit mit der aktuellen Kraftstoffmenge."/>
+        <e k="RM_setting_infoRange" v="Reichweite"/>
+        <e k="RM_toolTip_infoRange" v="Entfernung, die mit der aktuellen Kraftstoffmenge zurückgelegt werden kann."/>
+        <e k="RM_setting_hours" v=" stunden"/>
+        <e k="RM_button_okglobal" v="Globale Speicherung"/>
+    </elements>
+</l10n>

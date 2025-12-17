@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l10n>
+    <elements>
+        <e k="input_ROADMASTER_SET" v="RoadMaster"/>
+        <e k="input_ROADMASTER_TRIPRES" v="Útvonal-számláló nullázása"/>
+        <e k="RM_sectionHeaderHUD" v="HUD beállítások"/>
+        <e k="RM_sectionHeaderINFO" v="Jármű további infórmációk"/>
+        <e k="RM_setting_showOdometer" v="Kilométeróra-számláló"/>
+        <e k="RM_toolTip_showOdometer" v="Itt be- vagy kikapcsolhatod a Kilométeróra-számláló megjelenítését."/>
+        <e k="RM_setting_showFuelUsage" v="Üzemanyag-fogyasztás"/>
+        <e k="RM_toolTip_showFuelUsage" v="Itt be- vagy kikapcsolhatod az Üzemanyag-fogyasztás megjelenítését."/>
+        <e k="RM_setting_showFuel" v="Üzemanyag-mennyiség"/>
+        <e k="RM_toolTip_showFuel" v="Itt be- vagy kikapcsolhatod az Üzemanyag-mennyiség megjelenítését."/>
+        <e k="RM_setting_displayMode" v="Kilométeróra mód"/>
+        <e k="RM_toolTip_displayMode" v="Kilométeróra-számláló vagy az Útvonal-számláló megjelenítése. A kilométeróra-számláló a jármű teljes futásteljesítményét, az útvonal-számláló az aktuális távot méri."/>
+        <e k="RM_setting_displayModeOption1" v="Kilométeróra-számláló"/>
+        <e k="RM_setting_displayModeOption2" v="Útvonal-számláló"/>
+        <e k="RM_setting_displayOdo" v="Kilométeróra-számláló"/>
+        <e k="RM_toolTip_displayOdo" v="A kilométeróra-számláló állandó megjelenítése a HUD-on"/>
+        <e k="RM_setting_displayOdoOption1" v="Ne jelenjen meg"/>
+        <e k="RM_setting_displayOdoOption2" v="HUD-ban"/>
+        <e k="RM_setting_displayOdoOption3" v="HUD alatt"/>
+        <e k="RM_setting_showTemp" v="Motor hőmérséklet"/>
+        <e k="RM_toolTip_showTemp" v="Itt be- vagy kikapcsolhatod a Motor hőmérséklet megjelenítését."/>
+        <e k="RM_setting_showRpm" v="RPM"/>
+        <e k="RM_toolTip_showRpm" v="Itt be- vagy kikapcsolhatod a fordulatszám (RPM) megjelenítését."/>
+        <e k="RM_setting_gameOpHours" v="Üzemidő"/>
+        <e k="RM_toolTip_gameOpHours" v="Itt választható ki, hogy a jármű üzemideje a játékidőben (Igen) vagy valós időben (Nem) jelenjen meg."/>
+        <e k="RM_setting_infoAverageSpeed" v="Átlagsebesség"/>
+        <e k="RM_toolTip_infoAverageSpeed" v=""/>
+        <e k="RM_setting_infoFuel" v="Üzemanyag"/>
+        <e k="RM_toolTip_infoFuel" v="Üzemanyag-mennyiség."/>
+        <e k="RM_setting_infoExpOpTime" v="Várható üzemidő"/>
+        <e k="RM_toolTip_infoExpOpTime" v="Hátralévő üzemeltetési idő a jelenlegi üzemanyag-mennyiséggel."/>
+        <e k="RM_setting_infoRange" v="Hatótáv"/>
+        <e k="RM_toolTip_infoRange" v="Megtehető távolság a jelenlegi üzemanyag-mennyiséggel."/>
+        <e k="RM_setting_hours" v=" óra"/>
+        <e k="RM_button_okglobal" v="Globális Mentés"/>
+    </elements>
+</l10n>

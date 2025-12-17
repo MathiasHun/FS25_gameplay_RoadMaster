@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l10n>
+    <elements>
+        <e k="input_ROADMASTER_SET" v="RoadMaster"/>
+        <e k="input_ROADMASTER_TRIPRES" v="Reset Trip Counter"/>
+        <e k="RM_sectionHeaderHUD" v="HUD Settings"/>
+        <e k="RM_sectionHeaderINFO" v="Additional Vehicle Information"/>
+        <e k="RM_setting_showOdometer" v="Odometer Counter"/>
+        <e k="RM_toolTip_showOdometer" v="Here you can toggle the display of the Odometer Counter on or off."/>
+        <e k="RM_setting_showFuelUsage" v="Fuel Consumption"/>
+        <e k="RM_toolTip_showFuelUsage" v="Here you can toggle the display of Fuel Consumption on or off."/>
+        <e k="RM_setting_showFuel" v="Fuel amount"/>
+        <e k="RM_toolTip_showFuel" v="Here you can toggle the display of Fuel Amount on or off."/>
+        <e k="RM_setting_displayMode" v="Odometer Mode"/>
+        <e k="RM_toolTip_displayMode" v="Choose whether to display the Odometer Counter or the Trip Counter. The Odometer Counter shows the vehicle's total mileage, while the Trip Counter measures the distance of the current journey or session."/>
+        <e k="RM_setting_displayModeOption1" v="Odometer Counter"/>
+        <e k="RM_setting_displayModeOption2" v="Trip Counter"/>
+        <e k="RM_setting_displayOdo" v="Odometer Counter"/>
+        <e k="RM_toolTip_displayOdo" v="Constant display of the Odometer Counter on the HUD."/>
+        <e k="RM_setting_displayOdoOption1" v="Do not display"/>
+        <e k="RM_setting_displayOdoOption2" v="In the HUD"/>
+        <e k="RM_setting_displayOdoOption3" v="Below the HUD"/>
+        <e k="RM_setting_showTemp" v="Engine Temperature"/>
+        <e k="RM_toolTip_showTemp" v="Here you can toggle the display of Engine Temperature on or off."/>
+        <e k="RM_setting_showRpm" v="RPM"/>
+        <e k="RM_toolTip_showRpm" v="Here you can toggle the display of Engine RPM on or off."/>
+        <e k="RM_setting_gameOpHours" v="Operating Hours"/>
+        <e k="RM_toolTip_gameOpHours" v="Choose whether the vehicle's operating hours are displayed in game time (Yes) or real time (No)."/>
+        <e k="RM_setting_infoAverageSpeed" v="Average Speed"/>
+        <e k="RM_toolTip_infoAverageSpeed" v=""/>
+        <e k="RM_setting_infoFuel" v="Fuel"/>
+        <e k="RM_toolTip_infoFuel" v="Fuel amount."/>
+        <e k="RM_setting_infoExpOpTime" v="Expected Operating Time"/>
+        <e k="RM_toolTip_infoExpOpTime" v="Remaining operating time with the current fuel amount."/>
+        <e k="RM_setting_infoRange" v="Range"/>
+        <e k="RM_toolTip_infoRange" v="Distance that can be covered with the current fuel amount."/>
+        <e k="RM_setting_hours" v=" hours"/>
+        <e k="RM_button_okglobal" v="Global Save"/>
+    </elements>
+</l10n>
