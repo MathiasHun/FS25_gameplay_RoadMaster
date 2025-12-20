@@ -4,6 +4,9 @@
 </br>
 <p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=4">Download the latest developer version</a></strong> (the file FS25_gameplay_RoadMaster.zip).</p>
 
+## Changelog 1.1.0.3:
+- Github issues#8 - Fuel unit bug, fixed
+
 ## Changelog 1.1.0.2:
 - Fixed incorrect rounding of the odometer display
 - Removed lastDieselFuelUsage variable
